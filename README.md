@@ -39,7 +39,7 @@ Summary statistics of numerical features
 Data consistency checks
 ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/your-username/supply-chain-analysis.git
+git clone https://github.com/RiddhiBhor9
 Navigate to the project folder:
 cd supply-chain-analysis
 Install dependencies:
